@@ -20,5 +20,10 @@ npm run build
 npm run lint
 ```
 
+### Add Apps and Endpoints
+```
+add apps and endpoints in config.json
+```
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+# healthview
