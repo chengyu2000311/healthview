@@ -1,0 +1,4 @@
+{
+    "Apps": ["localhost:8080", "crm", "crm-cmc"],
+    "Endpoints": ["health", "metrics"]
+}
